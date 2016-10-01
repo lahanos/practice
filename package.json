@@ -1,0 +1,16 @@
+{
+  "name": "node_restify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulvi",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.6.0",
+    "restify": "^4.1.1",
+    "restify-validator": "^0.3.1"
+  }
+}
